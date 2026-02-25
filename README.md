@@ -1,4 +1,9 @@
-# MSE465_final_project_
+# MSE465_final_project
+### Group Member
+1. Cheng-yuan Chen
+2. Yu Chen Hsu
+3. Hung Chin Lee
+
 # Physically Interpretable Strain Mapping in 2D Heterojunctions Using 4D-STEM
 
 ## Dataset Information
