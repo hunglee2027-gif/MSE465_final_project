@@ -31,5 +31,6 @@ patterns of monolayer $WS_2-WSe_2$ lateral heterojunctions with in-plane epitaxi
 ### Person 3: Physical Consistency & Interpretation
 1. Check Strain Magnitude Follow Physics Law
 2. Analysize Strain Gradient Near Heterointerface
-3. Build Final Visualization Diagramd
+3. Build Final Visualization Diagram
+
 
