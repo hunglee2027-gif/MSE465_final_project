@@ -19,7 +19,7 @@ https://zenodo.org/records/10892106
 patterns of monolayer $WS_2-WSe_2$ lateral heterojunctions with in-plane epitaxial interfaces.
 
 ## Division of Labor
-### Part 1 :　Cheng-Yuan Chen: Data Preprocessing, Noise Filtering & Calibration
+### Part 1 :Cheng-Yuan Chen: Data Preprocessing, Noise Filtering & Calibration
 1.Load the experimental 4D-STEM datasets and standardize the dynamic range for the EMPAD detector. 
 
 2.Noise Filtering: Apply image filtering techniques (e.g., Gaussian blur or Wiener filter) prior to physical calibration to remove background noise and enhance the signal-to-noise ratio of the Bragg peaks. 
@@ -27,7 +27,7 @@ patterns of monolayer $WS_2-WSe_2$ lateral heterojunctions with in-plane epitaxi
 3.Perform Center of Mass (CoM) analysis or center-beam alignment at each probe position. 
 
 4.Complete probe center calibration and execute background subtraction based on the alignment results. 
-### Hung-Chin Lee: Diffraction Analysis & Vector Extraction
+### Part ２ :Hung-Chin Lee: Diffraction Analysis & Vector Extraction
 1.Compute the spatially averaged diffraction pattern from the entire dataset to define the system's reference lattice. 
 
 2.Conduct dominant Bragg peak detection within the diffraction pattern at each probe position. 
@@ -35,7 +35,7 @@ patterns of monolayer $WS_2-WSe_2$ lateral heterojunctions with in-plane epitaxi
 3.Apply sub-pixel peak localization techniques to determine the exact positions of the peaks with high precision. 
 
 4.Construct the local reciprocal lattice vectors for each scanning point based on the precisely located peaks. 
-### Yu-Chen Hsu: Strain Calculation, Physical Consistency & Interpretation
+### Part ３ :Yu-Chen Hsu: Strain Calculation, Physical Consistency & Interpretation
 1.Calculate normal strain components ($\varepsilon_{xx}$, $\varepsilon_{yy}$) by comparing local reciprocal lattice spacing changes against the reference lattice. 
 
 2.Estimate small-angle lattice rotation using linear approximations, intentionally omitting shear strain and higher-order tensor terms to ensure algorithmic robustness. 
