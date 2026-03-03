@@ -8,8 +8,7 @@
 
 ## Dataset Information
 ### Dataset Source:
-1. Experimental and Simulated Datasets Used in "Strain Mapping of Three-dimensionally Structured 
-Two-dimensional Materials"
+1. Experimental and Simulated Datasets Used in "Strain Mapping of Three-dimensionally Structured Two-dimensional Materials (MoS₂–MoSe₂)"
 https://zenodo.org/records/17246822   
 2. Nanobeam 4D-STEM raw data of monolayer $WS_2-WSe_2$ lateral heterojunctions
 https://zenodo.org/records/10892106 
