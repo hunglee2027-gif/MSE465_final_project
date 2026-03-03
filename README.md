@@ -19,7 +19,7 @@ https://zenodo.org/records/10892106
 patterns of monolayer $WS_2-WSe_2$ lateral heterojunctions with in-plane epitaxial interfaces.
 
 ## Division of Labor
-### Cheng-Yuan Chen: Data Preprocessing, Noise Filtering & Calibration
+### Part 1 :　Cheng-Yuan Chen: Data Preprocessing, Noise Filtering & Calibration
 1.Load the experimental 4D-STEM datasets and standardize the dynamic range for the EMPAD detector. 
 
 2.Noise Filtering: Apply image filtering techniques (e.g., Gaussian blur or Wiener filter) prior to physical calibration to remove background noise and enhance the signal-to-noise ratio of the Bragg peaks. 
