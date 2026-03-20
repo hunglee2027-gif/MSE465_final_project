@@ -13,8 +13,6 @@ https://zenodo.org/records/17246822
 
 ### Dataset Size & Format:
 1. 256 times 256 scan grid with 128 times 128 pixel diffraction patterns (.raw format) 
-2. Recorded at 27.5 $kx$ magnification with a 1.2 mrad convergence angle. The data includes diffraction 
-patterns of monolayer $WS_2-WSe_2$ lateral heterojunctions with in-plane epitaxial interfaces.
 
 ## Division of Labor
 ### Part 1 :Cheng-Yuan Chen: Data Preprocessing, Noise Filtering & Calibration
